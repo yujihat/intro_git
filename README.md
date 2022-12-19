@@ -12,7 +12,7 @@ gitレクチャー用のリポジトリ
 * moto
 
 ## jenkins test
-jenkins test
+jenkins test second season
 
 ## git fetchとは
 リモートリポジトリの情報をローカルに取り込み、ローカルのファイルは更新しない
