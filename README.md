@@ -11,6 +11,8 @@ gitレクチャー用のリポジトリ
 * matsu
 * moto
 
+## jenkins test
+jenkins test
 
 ## git fetchとは
 リモートリポジトリの情報をローカルに取り込み、ローカルのファイルは更新しない
