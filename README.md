@@ -9,3 +9,6 @@ gitレクチャー用のリポジトリ
 
 ## チームメンバー
 matsu moto
+
+## Jenkins Test
+このコミットをトリガーにJenkinsJobが回ってくれるとありがたい。
