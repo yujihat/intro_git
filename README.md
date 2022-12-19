@@ -11,4 +11,4 @@ gitレクチャー用のリポジトリ
 matsu moto
 
 ## Jenkins Test
-このコミットをトリガーにJenkinsJobが回ってくれ。
+このコミットをトリガーにJenkinsJobが回ってくれるとありがたい。
